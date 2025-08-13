@@ -45,8 +45,8 @@ A comprehensive AI-powered software development framework that uses multiple spe
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/multi-agentic-coding-framework.git
-   cd multi-agentic-coding-framework
+   git clone https://github.com/harikrishna142/Multi-Agent-vibe-coding-assistant.git
+   cd Multi-Agent-vibe-coding-assistant
    ```
 
 2. **Install dependencies**
@@ -189,7 +189,6 @@ pytest tests/
 
 ## 📚 Documentation
 
-- **[Interview Guide](INTERVIEW_GUIDE.md)**: Comprehensive technical documentation
 - **[Setup Guide](SETUP_GUIDE.md)**: Detailed setup instructions
 - **[Project Summary](PROJECT_SUMMARY.md)**: Technical architecture overview
 
@@ -236,9 +235,8 @@ multi-agentic-coding-framework/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-### Development Guidelines
+###  Guidelines
 
-- Follow PEP 8 style guidelines
 - Add tests for new features
 - Update documentation
 - Use meaningful commit messages
@@ -248,11 +246,10 @@ multi-agentic-coding-framework/
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
-
+- **Debanjan Koley**: This project is part of a coding assignment for AI Engineer position
 - **Microsoft AutoGen**: Multi-agent conversation framework
 - **OpenAI**: Large language model API
 - **Streamlit**: Web application framework
-- **Python Community**: Open-source libraries and tools
 
 ## 📞 Support
 
@@ -273,4 +270,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by the Multi-Agentic Coding Framework Team** 
+**Made with ❤️ by Harikrishna Marampelly
