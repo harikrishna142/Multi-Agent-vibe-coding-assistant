@@ -251,23 +251,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **OpenAI**: Large language model API
 - **Streamlit**: Web application framework
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/multi-agentic-coding-framework/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/multi-agentic-coding-framework/discussions)
-- **Documentation**: [Wiki](https://github.com/yourusername/multi-agentic-coding-framework/wiki)
-
-## 🚀 Roadmap
-
-- [ ] Support for multiple LLM providers
-- [ ] Custom agent templates
-- [ ] CI/CD integration
-- [ ] Cloud deployment options
-- [ ] Multi-language support
-- [ ] Advanced code analysis
-- [ ] Performance optimization
-- [ ] Enterprise features
-
----
 
 **Made with ❤️ by Harikrishna Marampelly
